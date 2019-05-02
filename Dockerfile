@@ -1,4 +1,4 @@
-FROM defyma/s2i-php72-pdooci
+FROM defyma/s2i-php72-pdooci:v1.0.2
 
 USER root
 
